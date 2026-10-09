@@ -1,6 +1,6 @@
 namespace DefaultNamespace;
 
-public class ColumnCheker
+public class ColumnChecker
 {
     /// Процедура проверки: получает все элементы столбца,
     /// true — если каждый элемент кратен 5 или 7.

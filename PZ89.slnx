@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MatrixLogic/MatrixLogic.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MatrixLogic.Tests/MatrixLogic.Tests.csproj" />
+  </Folder>
+</Solution>
